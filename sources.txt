@@ -1,0 +1,11 @@
+Code modified from: https://realpython.com/how-to-make-a-discord-bot-python/#creating-a-discord-account
+Emoji help: https://gist.github.com/scragly/b8d20aece2d058c8c601b44a689a47a0
+Unicode emojis: https://unicode.org/emoji/charts/full-emoji-list.html#1f44d
+Discord API Reference
+Reactions reader help: https://stackoverflow.com/questions/62965493/get-a-list-of-reactions-on-a-message-discord-py
+Embedded images: https://stackoverflow.com/questions/47515361/upload-an-embed-image
+Intentions fix: https://stackoverflow.com/questions/64524256/guild-members-not-working-correctly-discord-py
+Google Image Search: https://pypi.org/project/Google-Images-Search/
+Excel reading fix: https://stackoverflow.com/questions/60106910/how-to-read-and-print-random-rows-from-excel-file-in-python
+Memory Alpha - Rules of Acquisition
+Issues with Google Image Search: https://github.com/arrrlo/Google-Images-Search/issues/40

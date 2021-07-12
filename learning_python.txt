@@ -1,0 +1,6 @@
+install python and pip
+pip install -U discord.py
+pip install -U python-dotenv
+pip install -U xlrd
+pip install -U Google-Images-Search
+pip install windows-curses
